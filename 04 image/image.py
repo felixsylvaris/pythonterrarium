@@ -42,7 +42,7 @@ def open_picture():
 # Create the main application window.
 root = tk.Tk()
 # Set the window size.
-root.geometry("1200x00")
+root.geometry("1200x800")
 # Set the window title.
 root.title("Photo")
 
