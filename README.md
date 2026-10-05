@@ -13,3 +13,7 @@ Practice: functions, return, random, nested loops, accumulating values, break, c
 
 ## 03 Shopping simulator
 We go among shops shopping groceries. def, dict{dict}, some if, validation and conversion, global var, 
+
+## 04 Tkinker photo viewer.
+A tiny Tkinter photo viewer. Select an image from the file explorer and display it inside a GUI window.
+Practice: Tkinter, GUI widgets, functions as callbacks, filedialog, Pillow, image resizing, Label.config(), object references, and mainloop(). One app, one button. One photo. 
