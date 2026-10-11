@@ -1,8 +1,8 @@
 import random
 # this is rock paper scissors game. Player can choose, pc is rolling. We have nice matrix of victory types. 
 
-pclist=["rock","papper","scissors"]
-transition={"rock":0,"papper":1,"scissors":2}
+pclist=["rock","paper","scissors"]
+transition={"rock":0,"paper":1,"scissors":2}
 # vic matrix is player row, computer column , plnumber/pcnumber
 vicmatrix=[[0,-1,1],
 [1,0,-1],
@@ -28,13 +28,13 @@ def plturn():
             print("pick 1, 2 or 3")
     plnumber=int(plpick)-1
     plchoice= pclist[plnumber]
-    print(f"You pcik {plchoice}")
+    print(f"You pick {plchoice}")
     return plchoice,plnumber
 
 
 
 def main():
-    print("This is the game of rock, paper, scisor.")
+    print("This is the game of rock, paper, scissors.")
 
     plchoice,plnumber=plturn()
     pcchoice,pcnumber=pcroll()
@@ -52,7 +52,7 @@ def main():
 
 while True:
     main()
-    print("Do you want to play again? (y yes, n no")
+    print("Do you want to play again? (y yes, n no)")
     again=input()
     if again.lower()=="y":
         continue
