@@ -20,3 +20,7 @@ Practice: Tkinter, GUI widgets, functions as callbacks, filedialog, Pillow, imag
 
 ## 05 Rock, Paper, Scissors
 Classic. Def func. Loops. validation. some dict and list. Victory matrix lookup. tuple returns. 
+
+## 06. Leet Forst, binary graphs and oops i did it again
+This is a mini adventure game, using binary tree structure with peek field (about text field). Which uses graph as map. And calls scenes as function. it is text based. 
+We also have OOPs with player witch character, and goblin creature enemies. We use inheritance, and kwargs, defaults, and class funtions. 
