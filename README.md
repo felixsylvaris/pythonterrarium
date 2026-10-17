@@ -27,3 +27,6 @@ We also have OOPs with player witch character, and goblin creature enemies. We u
 
 ## 07 File txt combine
 List a content of folder, pick two txt files. Ask for new name. and save new txt file with combined content. 
+
+## 08 Hangover hangman
+quick practice, list, input, lower, validation inputs. Basics. 
