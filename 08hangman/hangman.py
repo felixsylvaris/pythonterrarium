@@ -51,6 +51,8 @@ while lives>0 and tofind>0:
     
     if tofind==0:
         print("You absolutly won everything!")
+        print("The world was...")
+        print(str(mask))
         break
     
     
