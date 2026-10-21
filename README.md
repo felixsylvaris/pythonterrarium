@@ -30,3 +30,8 @@ List a content of folder, pick two txt files. Ask for new name. and save new txt
 
 ## 08 Hangover hangman
 quick practice, list, input, lower, validation inputs. Basics. 
+
+## 09 Small Art Galery Eurogame Game
+We run art galery, and bid in auction against competitor who just wants to pile art. We try to build more collection than accumulation. 
+Victory by visitors total. Cash is just means. 
+Galery Class, Painiting Class, bunch of methods, some sets, and menu looping. 
