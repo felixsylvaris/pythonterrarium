@@ -282,7 +282,11 @@ def auction(deck: list[Painting], player: Gallery, competitor: Gallery) -> None:
             winner = player
             break
 
-        resign_chance = 75 if bid > painting.price else 25
+        resign_chance =  75 if bid > painting.price else 25
+        
+        if competitor.appeal < 30:
+            resign_chance += 20
+        
         if random.randint(1, 100) <= resign_chance:
             print(f"{competitor.name} gives up.")
             winner = player
@@ -462,4 +466,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
