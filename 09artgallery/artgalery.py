@@ -243,9 +243,9 @@ def auction(deck: list[Painting], player: Gallery, competitor: Gallery) -> None:
     painting = deck.pop()
     bid = 50
     if player.cash < 50 and competitor.cash < 50:
-    print("Neither gallery can afford the opening bid.")
-    deck.append(painting)
-    return
+        print("Neither gallery can afford the opening bid.")
+        deck.append(painting)
+        return
     
     if competitor.cash>=50:
         current_bidder = competitor
