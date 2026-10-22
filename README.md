@@ -39,3 +39,7 @@ Galery Class, Painiting Class, bunch of methods, some sets, and menu looping.
 ## 10 Mastermind clone
 Computer has secret world, and player tries to guess it getting score how close they are to target. 
 Simple dict, func, some return value and take argument. 
+
+## 11 Star Collector pygame
+We draw the board, we init the window, we draw rectangle, and triangles, triangles disappear when rectangle touches them, we move around.
+Collect 5 triangles to finish the game. 
