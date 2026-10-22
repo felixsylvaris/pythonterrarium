@@ -35,3 +35,7 @@ quick practice, list, input, lower, validation inputs. Basics.
 We run art galery, and bid in auction against competitor who just wants to pile art. We try to build more collection than accumulation. 
 Victory by visitors total. Cash is just means. 
 Galery Class, Painiting Class, bunch of methods, some sets, and menu looping. 
+
+## 10 Mastermind clone
+Computer has secret world, and player tries to guess it getting score how close they are to target. 
+Simple dict, func, some return value and take argument. 
