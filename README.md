@@ -46,3 +46,7 @@ Collect 5 triangles to finish the game.
 
 ## 12 JSON write read print
 That is it. Load some string into json and read it. Not all lessons are 1000lines of code. 
+
+## 12 b JSON TODO manager
+Add tasks for today, tomorrow, yesterday, or a specific date (YYYY-MM-DD); View tasks by date; Mark tasks as DONE; Remove tasks; Automatically save changes to todo_list.json
+Write, retrieve json. menus, validation, datetime. dictionaries 
