@@ -56,3 +56,8 @@ load pandas, asks for filename, connects to local path, and try load txt, csv, x
 
 ## 14 countries with pandas
 import pandas, perform some idxloc, groupby, filter, agg, also export output
+
+## 15 Countries SQL but jupyter
+this is jupyter notebook  about database countries from keggle
+This contains various sql queries using duckdb trick
+min, max, avg, median, groupby, rank, cte, window selection 
