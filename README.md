@@ -53,3 +53,6 @@ Write, retrieve json. menus, validation, datetime. dictionaries
 
 ## 13 Omnireader
 load pandas, asks for filename, connects to local path, and try load txt, csv, xls depending on file. returns df. 
+
+## 14 countries with pandas
+import pandas, perform some idxloc, groupby, filter, agg, also export output
