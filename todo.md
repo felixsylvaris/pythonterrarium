@@ -7,6 +7,9 @@ Drop them into benchmark table. 100 repetition.
 ## German cards
 memory cards with german worlds 
 
+## pivot and melt python playground
+use pivots and melt extensivly with all options and documents. 
+
 # Big Project
 
 # Vibe games
