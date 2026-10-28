@@ -64,3 +64,6 @@ min, max, avg, median, groupby, rank, cte, window selection
 
 ## 16 SQL alchemy
 Local IDE, set up sql alchemy SQLite engine, load file, make db, do some sql query, print output, write output into txt file. 
+
+## 18 Match Unit Converter
+Example of match case pattern recognicion use, this time changing units. 
