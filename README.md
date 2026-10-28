@@ -61,3 +61,6 @@ import pandas, perform some idxloc, groupby, filter, agg, also export output
 this is jupyter notebook  about database countries from keggle
 This contains various sql queries using duckdb trick
 min, max, avg, median, groupby, rank, cte, window selection 
+
+## 16 SQL alchemy
+Local IDE, set up sql alchemy SQLite engine, load file, make db, do some sql query, print output, write output into txt file. 
