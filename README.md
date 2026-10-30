@@ -65,5 +65,8 @@ min, max, avg, median, groupby, rank, cte, window selection
 ## 16 SQL alchemy
 Local IDE, set up sql alchemy SQLite engine, load file, make db, do some sql query, print output, write output into txt file. 
 
+## 17 Sortig Benchmark time
+This script benchmarks the speed of various sorting algorithms using different input patterns. It generates random arrays, measures sorting times, and exports the results to a JSON file.
+
 ## 18 Match Unit Converter
 Example of match case pattern recognicion use, this time changing units. 
