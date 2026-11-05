@@ -70,3 +70,6 @@ This script benchmarks the speed of various sorting algorithms using different i
 
 ## 18 Match Unit Converter
 Example of match case pattern recognicion use, this time changing units. 
+
+## 19 Digital Clock
+Windows app with digital clock current time. A small Tkinter GUI project. With event-driven programming.
