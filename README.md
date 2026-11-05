@@ -73,3 +73,6 @@ Example of match case pattern recognicion use, this time changing units.
 
 ## 19 Digital Clock
 Windows app with digital clock current time. A small Tkinter GUI project. With event-driven programming.
+
+## 20. Analog Clock
+Windows app with analog clock using tkinter, even driven, math.radians for arms amgle, and canvas.rectangle for draw arms. 
