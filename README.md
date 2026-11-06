@@ -79,3 +79,6 @@ Windows app with analog clock using tkinter, even driven, math.radians for arms 
 
 ## 21 VLC player
 mp4 player, tkinter, vlc widget. load file and play button atopping callbacks, 
+
+## 22 Triangle area
+We mesure area of triangle using Ah2, heron, one angel, two angels, coordinates, and math lib. 
