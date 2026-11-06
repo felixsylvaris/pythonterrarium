@@ -76,3 +76,6 @@ Windows app with digital clock current time. A small Tkinter GUI project. With e
 
 ## 20. Analog Clock
 Windows app with analog clock using tkinter, even driven, math.radians for arms amgle, and canvas.rectangle for draw arms. 
+
+## 21 VLC player
+mp4 player, tkinter, vlc widget. load file and play button atopping callbacks, 
