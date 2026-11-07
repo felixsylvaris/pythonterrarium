@@ -47,6 +47,14 @@ def generate_qr():
     imgspot.image = photo
     imgspot.config(image=photo)
 
+# function to clear label and text box
+def clear_qr():
+    """Clear the text box and the QR code display."""
+    global img
+    text_box.delete("1.0", "end")  # Clear the text box.
+    imgspot.config(image="")  # Clear the label.
+    imgspot.image = None  # Remove reference to the image.
+    img = None  # Reset the global image variable.
 
 def save_qr():
     """Ask where to save, then write the QR code to a PNG file."""
@@ -92,6 +100,10 @@ generate_button.pack()
 # Save button.
 save_button = tk.Button(root, text="Save QR Code", command=save_qr)
 save_button.pack()
+
+# Clear button.
+clear_button = tk.Button(root, text="Clear", command=clear_qr)
+clear_button.pack()
 
 # Label used to display the QR code picture.
 imgspot = tk.Label(root)
