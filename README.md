@@ -82,3 +82,9 @@ mp4 player, tkinter, vlc widget. load file and play button atopping callbacks,
 
 ## 22 Triangle area
 We mesure area of triangle using Ah2, heron, one angel, two angels, coordinates, and math lib. 
+
+## 23 ???
+Lost never to be found. 
+
+## 24 QR Code
+QR code generator from tkinter, ImageTk, qrcode. Write text in window. Generete Code. Save the file. Repeat. 
